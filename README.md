@@ -30,9 +30,9 @@
 
 - 📊 Knowledge in **Data Analytics** and backend technologies such as **Node.js, Express.js, MySQL, and MongoDB**
 
-- 🌱 Learning **Docker, SIEM, Python, and cybersecurity techniques**
+- 🌱 Learning **SIEM, Python, and cybersecurity techniques**
 
-- 📜 Fluent in **English (C2)** and **Spanish (Native)**, with basic knowledge of **German (A2)**
+- 📜 Intermediate in **English** and **Spanish (Native)**, with basic knowledge of **German (A2)**
 
 - 🌍 Studied abroad in **Germany (GOETHE exchange program)**
 
